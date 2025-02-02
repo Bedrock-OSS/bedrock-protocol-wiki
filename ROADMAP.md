@@ -1,12 +1,8 @@
 <br/>
 <img align="left" src="./assests/wiki-correct.svg" width="110" height="110" alt=""/>
-<p align="center">
-    <font size="6">MCBE Protocol Wiki Road Map</font>
-</p>
+<br/>
 
-----
-<br/>
-<br/>
+# MCBE Protocol Wiki Road Map
 
 This is a road map of what goals this project has, and how we plan on achieving them. We do have a [Project](https://github.com/orgs/Bedrock-OSS/projects/7) page that will have better notes and more up-to-date stuff.
 
