@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70">
+    <defs>
+        <style>
+            .hexagon {
+                fill-opacity: 0;
+                stroke: #000;
+                stroke-width: 3.5;
+            }
+            
+            .bracket {
+                fill-opacity: 0;
+                stroke: #000;
+                stroke-width: 5.5;
+            }
+        </style>
+    </defs>
+    <path class="hexagon" stroke-opacity="0" d="M35,4 8,20 8,50 35,66 62,50 62,20 z" />
+    <path class="hexagon" d="M35,4 8,20 8,50 M8,50 35,66 62,50 M62,50 62,20 35,4" />
+    <path class="hexagon" stroke-linejoin="round" d="M62,20 35,4 8,20 M8,20 8,50 35,66 M35,66 62,50 62,20" />
+    <path class="bracket" d="M29,20 28,20 C23,20 24,20 24,30 24,34 21,35 18,35 M29,50 29,50 C23,50 24,50 24,40 24,36 21,35 18,35" />
+    <path class="bracket" d="M41,20 42,20 C47,20 46,20 46,30 46,34 49,35 52,35 M41,50 42,50 C47,50 46,50 46,40 46,36 49,35 52,35" />
+</svg>
